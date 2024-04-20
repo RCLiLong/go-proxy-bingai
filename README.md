@@ -1,6 +1,6 @@
 这是我部署的成品，欢迎使用与体验：https://msai.62607015.xyz/web/#/
 
-感谢Harry-zklcdc、adams549659584、cloudflare papes
+感谢laogou717、Harry-zklcdc、adams549659584、cloudflare papes
 
 下面是原版readme
 
